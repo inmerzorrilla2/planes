@@ -1,0 +1,16 @@
+body{
+    /* border: 2px solid rgb(0, 4, 255); */
+    text-align: center;
+}
+img{
+    width: 70%;
+    height: 100%;
+    border-radius: 20px;
+    margin: 40px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
